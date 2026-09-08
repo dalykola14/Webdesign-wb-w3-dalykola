@@ -4,7 +4,7 @@
 body{
     margin: 0;
     height: 100vh;
-    background-color: bisque;
+    background-color: rgb(244, 244, 243);
 }
 .container{
     display: flex;
@@ -17,13 +17,13 @@ body{
 
 header{
     height: 100px;
-    background-color: rgb(120, 88, 94);
+    background-color: rgb(183, 1, 35);
 
 }
 
 main{
     flex-grow: 1;
-    background-color: brown;
+    background-color: rgb(185, 9, 97);
 }
 
 footer{
